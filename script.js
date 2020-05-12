@@ -159,14 +159,12 @@ window.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-
-
     };
     sendForm();
 
 
 
-    // SLIDERRRRRRRRRRRRRRRRRRRRRR
+    // SLIDERRRRRRR
     const slider = ()  => {
 
         let slideIndex = 1;
